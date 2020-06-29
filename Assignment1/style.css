@@ -1,0 +1,44 @@
+body{
+    overflow: auto;
+    text-align: center;
+    background-image: linear-gradient(rgb(250, 228, 201), rgb(255, 244, 220));
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.list li {
+    list-style-type: disc;
+    display:list-item;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: chocolate;
+}
+
+.sp{
+    margin-bottom: -1px;
+}
+
+
+.sp1{
+    margin-bottom: -10px;
+}
+
+.c1{
+    padding: 0px;
+}
+
+.spa{
+    display: block;
+    margin-bottom: .7em;
+}
